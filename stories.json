@@ -13,15 +13,5 @@
         "imageurl" : "https://files.liverussia.online/historyforlauncher/history3.png",
         "title" : "Работа шахтёра!",
         "url" : "https://vk.com"
-   },
-   {
-        "imageurl" : "https://files.liverussia.online/historyforlauncher/historybg.png",
-        "title" : "Название истории",
-        "url" : "https://vk.com"
-   },
-   {
-        "imageurl" : "https://files.iverussia.online/historyforlauncher/historybg.png",
-        "title" : "Название истории",
-        "url" : "https://vk.com"
-   } 
+   }
 ]
